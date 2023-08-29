@@ -15,6 +15,10 @@ Link ka skupu podataka: https://www.kaggle.com/datasets/adityajn105/flickr8k
 * tensorflow
 * nltk
 
+### Model, features, tokenizer
+
+https://drive.google.com/drive/folders/1zPXMsHjx_v6gOVKicCnRcQwI41OWNQc8?usp=sharing
+
 ### Rezultati
 * BLEU-1 Score: 0.515462
 * BLEU-2 Score: 0.288135
